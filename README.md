@@ -1,1 +1,1 @@
-# QuanTimed-DSGD-NeurIPS19-
+# QuanTimed-DSGD
